@@ -1,3 +1,3 @@
 # Hello 
 
-* a bullet point
+This is the calculator
